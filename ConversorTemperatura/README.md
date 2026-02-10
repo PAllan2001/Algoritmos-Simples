@@ -3,5 +3,6 @@ Algoritmo responsável por converter valores de temperatura entre diferentes esc
 
 **Conceitos trabalhados:**
 - Cálculos matemáticos
-- Estruturas condicionais
+- Estruturas Condicionais
 - Lógica de conversão
+
