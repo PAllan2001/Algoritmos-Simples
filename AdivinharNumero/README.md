@@ -30,7 +30,7 @@ Estrutura de repetição while
 
 Estruturas condicionais if / else if / else
 
-Controle De Tentativas
+ Controle De Tentativas
 
 Validação de entrada
 
@@ -45,4 +45,5 @@ A cada erro, o programa informa se o número secreto é maior ou menor.
 Se acertar, o jogo informa a vitória.
 
 Se errar todas as tentativas, o número correto é revelado.
+
 
